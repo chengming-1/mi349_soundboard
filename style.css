@@ -1,0 +1,35 @@
+html {
+    background-color: antiquewhite;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 20px;
+    color: #000000;
+    border-top: 10px solid #000000;
+    background: antiquewhite;
+}
+
+.sticky {
+    background-color:#f3f3f3;
+    border-radius: 15px;
+    margin:0 auto;
+    width:400px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 10px 10px 1px;
+    border:2px solid #aaa;
+}
+
+h1 {
+    font-size: 3em;
+}
+.card{
+    background-color:#f3f3f3;
+    border-radius: 15px;
+    margin:0 auto;
+    width:400px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 10px 10px 1px;
+    border:2px solid #aaa;
+}
